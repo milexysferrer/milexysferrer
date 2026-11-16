@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Milexys Ferrer 👋
 
-<!--
-**milexysferrer/milexysferrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Software Engineer
 
-Here are some ideas to get you started:
+I'm a Frontend Software Engineer passionate about building responsive, accessible, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into intuitive digital experiences and continuously improving my skills through learning and hands-on projects.
+
+### 🛠️ Tech Stack
+
+- **Languages:** JavaScript, TypeScript
+- **Frontend:** React
+- **Other:** HTML5, CSS3
+
+### 🚀 What I'm focused on
+
+- Building modern and responsive web applications.
+- Writing clean, maintainable code.
+- Improving user experience and frontend architecture.
+- Exploring new technologies and best practices.
+
+### 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/milexysferrer/)
+- [GitHub](https://github.com/milexysferrer)
+
